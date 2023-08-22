@@ -1,2 +1,2 @@
 # Movies_CRUD
- 
+ The goal of this project is to develop a CRUD program where end-users can perform four basic operations (Create, Retrieve, Update, and Delete). In this project, I created a GUI application called "Netflix Playlist" using the Tkinter library in Python (front-end) and SQLite (back-end). This program allows users to add movies, select genres, and modify several categories. I also add a feature that enables a filtering function.
